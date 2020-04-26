@@ -1,7 +1,4 @@
-<?php  
-include_once dirname(__FILE__).'/../includes/sitefunctions.php';
-include_once $serverpath.'includes/common_functions.php';
-
+<?php 
 include_once 'classes/hubsportBase.php'; 
 include_once 'classes/hubspotProperties.php'; 
 $propertieObj = new HubspotProperties();
